@@ -5,8 +5,8 @@ I'm passionate about leveraging technology to solve complex problems and enhance
 I believe in the power of collaboration and continuous learning, and I'm always exploring new ideas and tools. Let's connect and create something impactful together!
 
 Some of the projects I have enjoyed are:
-Building a Next JS website for selling and buying art
-Creating Python Scripts for parsing large data sets
+Building a Next JS website for selling and buying art,
+Creating Python Scripts for parsing large data sets, and
 Designing Star and Snowflake database schemas
 
 Some Technologies used are:
