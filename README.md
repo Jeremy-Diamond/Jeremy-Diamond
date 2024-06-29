@@ -1,16 +1,19 @@
-## Hi there 👋
+Welcome to my GitHub profile! 
 
-<!--
-**Jeremy-Diamond/Jeremy-Diamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about leveraging technology to solve complex problems and enhance user experiences. My repositories showcase a variety of projects where I've applied my skills to create innovative solutions. 
 
-Here are some ideas to get you started:
+I believe in the power of collaboration and continuous learning, and I'm always exploring new ideas and tools. Let's connect and create something impactful together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some Technologies used are 
+
+PHP
+.NET
+Python
+SQL
+SOQL
+APEX
+NEXT JS
+Node JS
+HTML
+CSS 
+JAVASCRIPT
